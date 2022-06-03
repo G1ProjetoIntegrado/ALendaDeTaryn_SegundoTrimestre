@@ -7,7 +7,7 @@ Integrantes:
 - Ana Lívia Silva Paiva;
 - João Gabriel da Mata Rosa;
 - Matheus Henrique Ferreira Braz;
-- Nydia Jodar Teles dos Santos;
+- Yasmin Vasconcelos Leite;
 - Sabrina Gabriele dos Santos.
 
 # História 
