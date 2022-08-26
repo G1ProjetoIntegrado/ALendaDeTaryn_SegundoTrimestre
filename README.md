@@ -1,4 +1,4 @@
-# <img height="250em" src="https://github.com/G1ProjetoIntegrado/ALendaDeTaryn_SegundoTrimestre/blob/main/CapaGitHub.png"/>
+# <img height="250em" src="https://github.com/G1ProjetoIntegrado/ALendaDeTaryn_SegundoTrimestre/blob/main/README/CapaGitHub.png"/>
 
 Jogo para o projeto integrado na escola técnica de eletrônica ETEFMC.
 
@@ -19,4 +19,4 @@ A Lenda De Taryn será um jogo de multi-plataforma, em que o enredo do aborda os
 
 # Personagem Principal
 <a>
-  <img height="250em" src="https://github.com/G1ProjetoIntegrado/ALendaDeTaryn_SegundoTrimestre/blob/main/Taryn.gif"/>
+  <img height="250em" src="https://github.com/G1ProjetoIntegrado/ALendaDeTaryn_SegundoTrimestre/blob/main/README/Taryn.gif"/>
