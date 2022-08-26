@@ -1,4 +1,5 @@
-# A Lenda de Taryn
+# <img height="250em" src="https://github.com/G1ProjetoIntegrado/ALendaDeTaryn_SegundoTrimestre/blob/main/CapaGitHub.png"/>
+
 Jogo para o projeto integrado na escola técnica de eletrônica ETEFMC.
 
 2022
