@@ -16,3 +16,5 @@ Integrantes:
 # História 
 
 A Lenda De Taryn será um jogo de multi-plataforma, em que o enredo do aborda os caminhos da protagonista Taryn, uma heroína olimpiana, que passa por diversos empecilhos, lutando contra os tiranos do mundo mitológico que intercedem sua prole pelos extremos conflitos de sua linhagem.
+
+#Personagem
