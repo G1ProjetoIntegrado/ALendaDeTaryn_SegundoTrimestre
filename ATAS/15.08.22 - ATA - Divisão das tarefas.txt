@@ -1,0 +1,26 @@
+Data: 15/08/2022
+No dia de hoje, nos reunimos para uma reunião e para definir a função de cada um na equipe nesta semana.
+
+Matheus: 
+- Tileset.
+- Auxílio programação. 
+
+Sabrina: 
+- Terminar cenário.
+- Coração/poção.
+
+Ana: 
+- Porta.
+- Auxílio cenário.
+
+Maria Eduarda:
+- Terminar animação da Taryn.
+- Cutcenes
+
+Yasmin: 
+- Porta.
+- moeda.
+
+João: 
+- Programação.
+- Auxílio geral.
